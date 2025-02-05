@@ -7,7 +7,4 @@
     "enabled": true
   },
   "keep_vars" : true,
-  "vars": {
-    "HELLO" :  "a"
-  }
 }
