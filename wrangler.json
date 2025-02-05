@@ -7,6 +7,6 @@
     "enabled": true
   },
   "vars": {
-    "HELLO" : ""
+    "HELLO" :  ""
   }
 }
